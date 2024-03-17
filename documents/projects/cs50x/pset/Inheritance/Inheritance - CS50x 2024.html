@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)https://cs50.harvard.edu/x/2024/psets/5/inheritance/ -->
+<html lang="en-us" class="wf-ptsans-n4-active wf-ptsans-n7-active wf-active">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="initial-scale=1, width=device-width">
+  <meta property="og:description"
+    content="Harvard University&#39;s introduction to the intellectual enterprises of computer science and the art of programming.">
+  <meta property="og:image" content="https://cs50.harvard.edu/x/2024/assets/sanders.jpg">
+  <meta property="og:title" content="Inheritance - CS50x 2024">
+
+  <link href="https://cs50.harvard.edu/x/2024/favicon.ico?1710445028" rel="icon">
+  <script src="../(template)/webfont.js"></script>
+  <link href="../(template)/page.css" rel="stylesheet">
+  <link rel="stylesheet" href="../(template)/css" media="all">
+  <script src="../(template)/jekyll-theme-cs50.js"></script>
+
+  <title>Inheritance - CS50x 2024</title>
+
+</head>
+
+<body class="">
+
+  <div class="container-fluid">
+
+    <div class="row">
+
+      <main class="col-lg" style="margin-bottom: 440px; margin-top: 0px;">
+
+        <a data-id="" id="inheritance" style="top: 0px;"></a>
+        <h1><a data-id="" href="https://cs50.harvard.edu/x/2024/psets/5/inheritance/#inheritance">Inheritance</a></h1>
+
+        <div class="ratio ratio-16x9" data-video=""><iframe width="560" height="315"
+            src="https://www.youtube.com/embed/xfZhb6lmxjk?si=siOjnASbbH3ndP8-" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe></div>
+
+        <a data-id="" id="problem-to-solve" style="top: 0px;"></a>
+        <h2><a data-id="" href="https://cs50.harvard.edu/x/2024/psets/5/inheritance/#problem-to-solve">Problem to
+            Solve</a></h2>
+
+        <p>A person’s blood type is determined by two alleles (i.e., different forms of a gene). The three possible
+          alleles are A, B, and O, of which each person has two (possibly the same, possibly different). Each of a
+          child’s parents randomly passes one of their two blood type alleles to their child. The possible blood type
+          combinations, then, are: OO, OA, OB, AO, AA, AB, BO, BA, and BB.</p>
+
+        <p>For example, if one parent has blood type AO and the other parent has blood type BB, then the child’s
+          possible blood types would be AB and OB, depending on which allele is received from each parent. Similarly, if
+          one parent has blood type AO and the other OB, then the child’s possible blood types would be AO, OB, AB, and
+          OO.</p>
+
+        <p>In a file called <code class="language-plaintext highlighter-rouge">inheritance.c</code> in a folder called
+          <code class="language-plaintext highlighter-rouge">inheritance</code>, simulate the inheritance of blood types
+          for each member of a family.
+        </p>
+
+        <a data-id="" id="implementation-details" style="top: 0px;"></a>
+        <h2><a data-id=""
+            href="https://cs50.harvard.edu/x/2024/psets/5/inheritance/#implementation-details">Implementation
+            Details</a></h2>
+
+        <p>Complete the implementation of <code class="language-plaintext highlighter-rouge">inheritance.c</code>, such
+          that it creates a family of a specified generation size and assigns blood type alleles to each family member.
+          The oldest generation will have alleles assigned randomly to them.</p>
+
+        <ul class="fa-ul">
+          <li data-marker="*"><span class="fa-li"><i class="fas fa-square"></i></span>The <code
+              class="language-plaintext highlighter-rouge">create_family</code> function takes an integer (<code
+              class="language-plaintext highlighter-rouge">generations</code>) as input and should allocate (as via
+            <code class="language-plaintext highlighter-rouge">malloc</code>) one <code
+              class="language-plaintext highlighter-rouge">person</code> for each member of the family of that number of
+            generations, returning a pointer to the <code class="language-plaintext highlighter-rouge">person</code> in
+            the youngest generation.
+            <ul class="fa-ul">
+              <li data-marker="*"><span class="fa-li"><i class="fas fa-square"></i></span>For example, <code
+                  class="language-plaintext highlighter-rouge">create_family(3)</code> should return a pointer to a
+                person with two parents, where each parent also has two parents.</li>
+              <li data-marker="*"><span class="fa-li"><i class="fas fa-square"></i></span>Each <code
+                  class="language-plaintext highlighter-rouge">person</code> should have <code
+                  class="language-plaintext highlighter-rouge">alleles</code> assigned to them. The oldest generation
+                should have alleles randomly chosen (as by calling the <code
+                  class="language-plaintext highlighter-rouge">random_allele</code> function), and younger generations
+                should inherit one allele (chosen at random) from each parent.</li>
+              <li data-marker="*"><span class="fa-li"><i class="fas fa-square"></i></span>Each <code
+                  class="language-plaintext highlighter-rouge">person</code> should have <code
+                  class="language-plaintext highlighter-rouge">parents</code> assigned to them. The oldest generation
+                should have both <code class="language-plaintext highlighter-rouge">parents</code> set to <code
+                  class="language-plaintext highlighter-rouge">NULL</code>, and younger generations should have <code
+                  class="language-plaintext highlighter-rouge">parents</code> be an array of two pointers, each pointing
+                to a different parent.</li>
+            </ul>
+          </li>
+        </ul>
+
+      </main>
+
+    </div>
+
+  </div>
+
+</body>
+
+</html>
