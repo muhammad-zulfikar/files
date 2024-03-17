@@ -1,12 +1,10 @@
-./tree.txt
-./index.html
 ./documents/certifications/Alibaba Cloud Certified Developer.pdf
 ./documents/certifications/Introduction to Data Analytics.pdf
 ./documents/certifications/Google Data Analytics 1.pdf
 ./documents/certifications/Microsoft Azure Data Fundamentals.pdf
 ./documents/certifications/IBM_Data Analysis with Python.pdf
-./documents/projects/idx partners/choropleth.html
-./documents/projects/idx partners/finalproject.html
+./documents/projects/idx_partners/choropleth.html
+./documents/projects/idx_partners/finalproject.html
 ./documents/projects/quantium/quantium_task3.pdf
 ./documents/projects/quantium/quantium_task2.html
 ./documents/projects/quantium/quantium_task1.html
