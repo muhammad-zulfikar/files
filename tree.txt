@@ -1,12 +1,12 @@
-./Documents/Projects/Data & ML/Dicoding: Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar (1).ipynb
-./Documents/Projects/Data & ML/Quantium: Data Analytics/Task 1 - Data Preparation and Customer Analysis (2).ipynb
-./Documents/Projects/Data & ML/Quantium: Data Analytics/Task 3 - Analytics and Commercial Application (3).pdf
-./Documents/Projects/Data & ML/Quantium: Data Analytics/Task 2 - Experimentation and Uplift Testing (2).ipynb
-./Documents/Projects/Data & ML/ASEAN DSE: ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
-./Documents/Certifications/ASEAN Data Science Explorer_ SAP Cloud Analytics and SAP Build Apps.pdf
+./Documents/Projects/Data and ML/Dicoding: Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar (1).ipynb
+./Documents/Projects/Data and ML/Quantium: Data Analytics/Task 1 - Data Preparation and Customer Analysis (2).ipynb
+./Documents/Projects/Data and ML/Quantium: Data Analytics/Task 3 - Analytics and Commercial Application (3).pdf
+./Documents/Projects/Data and ML/Quantium: Data Analytics/Task 2 - Experimentation and Uplift Testing (2).ipynb
+./Documents/Projects/Data and ML/ASEAN DSE: ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
 ./Documents/Certifications/Google Data Analytics Professional Certificate/Google Data Analytics 1.pdf
 ./Documents/Certifications/Google Data Analytics Professional Certificate/Google Data Analytics 2.pdf
 ./Documents/Certifications/IBM: Data Analysis with Python.pdf
+./Documents/Certifications/ASEAN Data Science Explorer: SAP Cloud Analytics and SAP Build Apps.pdf
 ./Documents/Certifications/Microsoft Azure Data Fundamentals.pdf
 ./Documents/Certifications/Alibaba Cloud Certified Developer.jpg
 ./Documents/Certifications/Dicoding Machine Learning Path/Dicoding: Python.pdf
