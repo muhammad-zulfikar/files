@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)https://cs50.harvard.edu/x/2024/psets/2/readability/ -->
+<html lang="en-us" class="wf-ptsans-n4-active wf-ptsans-n7-active wf-active">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="initial-scale=1, width=device-width">
+  <meta property="og:description"
+    content="Harvard University&#39;s introduction to the intellectual enterprises of computer science and the art of programming.">
+  <meta property="og:image" content="https://cs50.harvard.edu/x/2024/assets/sanders.jpg">
+  <meta property="og:title" content="Readability - CS50x 2024">
+
+  <link href="https://cs50.harvard.edu/x/2024/favicon.ico?1710445028" rel="icon">
+  <script src="../(template)/webfont.js"></script>
+  <link href="../(template)/page.css" rel="stylesheet">
+  <link rel="stylesheet" href="../(template)/css" media="all">
+  <script src="../(template)/jekyll-theme-cs50.js"></script>
+
+  <title>Readability - CS50x 2024</title>
+
+</head>
+
+<body class="">
+
+  <div class="container-fluid">
+
+    <div class="row">
+
+      <main class="col-lg" style="margin-bottom: 400px; margin-top: 0px;">
+
+        <a data-id="" id="readability" style="top: 0px;"></a>
+        <h1><a data-id="" href="https://cs50.harvard.edu/x/2024/psets/2/readability/#readability">Readability</a></h1>
+
+        <p class="w-25"><img src="./Readability - CS50x 2024_files/charlottes_web.jpg" alt="Charlotte&#39;s Web Cover">
+        </p>
+
+        <a data-id="" id="problem-to-solve" style="top: 0px;"></a>
+        <h2><a data-id="" href="https://cs50.harvard.edu/x/2024/psets/2/readability/#problem-to-solve">Problem to
+            Solve</a></h2>
+
+        <p>According to <a
+            href="https://www.scholastic.com/teachers/teaching-tools/collections/guided-reading-book-lists-for-every-level.html">Scholastic</a>,
+          E.B. White’s <em>Charlotte’s Web</em> is between a second- and fourth-grade reading level, and Lois Lowry’s
+          <em>The Giver</em> is between an eighth- and twelfth-grade reading level. What does it mean, though, for a
+          book to be at a particular reading level?</p>
+
+        <p>Well, in many cases, a human expert might read a book and make a decision on the grade (i.e., year in school)
+          for which they think the book is most appropriate. But an algorithm could likely figure that out too!</p>
+
+        <p>In a file called <code class="language-plaintext highlighter-rouge">readability.c</code> in a folder called
+          <code class="language-plaintext highlighter-rouge">readability</code>, you’ll implement a program that
+          calculates the approximate grade level needed to comprehend some text. Your program should print as output
+          “Grade X” where “X” is the grade level computed, rounded to the nearest integer. If the grade level is 16 or
+          higher (equivalent to or greater than a senior undergraduate reading level), your program should output “Grade
+          16+” instead of giving the exact index number. If the grade level is less than 1, your program should output
+          “Before Grade 1”.</p>
+
+        <a data-id="" id="background" style="top: 0px;"></a>
+        <h2><a data-id="" href="https://cs50.harvard.edu/x/2024/psets/2/readability/#background">Background</a></h2>
+
+        <p>So what sorts of traits are characteristic of higher reading levels? Well, longer words probably correlate
+          with higher reading levels. Likewise, longer sentences probably correlate with higher reading levels, too.</p>
+
+        <p>A number of “readability tests” have been developed over the years that define formulas for computing the
+          reading level of a text. One such readability test is the <em>Coleman-Liau index</em>. The Coleman-Liau index
+          of a text is designed to output that (U.S.) grade level that is needed to understand some text. The formula is
+        </p>
+
+        <div class="language-plaintext highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>index = 0.0588 * L - 0.296 * S - 15.8</code></pre>
+          </div>
+        </div>
+
+        <p>where <code class="language-plaintext highlighter-rouge">L</code> is the average number of letters per 100
+          words in the text, and <code class="language-plaintext highlighter-rouge">S</code> is the average number of
+          sentences per 100 words in the text.</p>
+
+      </main>
+
+    </div>
+
+  </div>
+
+</body>
+
+</html>

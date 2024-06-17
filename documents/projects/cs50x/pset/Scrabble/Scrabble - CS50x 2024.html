@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)https://cs50.harvard.edu/x/2024/psets/2/scrabble/ -->
+<html lang="en-us" class="wf-ptsans-n4-active wf-ptsans-n7-active wf-active">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="initial-scale=1, width=device-width">
+  <meta property="og:description"
+    content="Harvard University&#39;s introduction to the intellectual enterprises of computer science and the art of programming.">
+  <meta property="og:image" content="https://cs50.harvard.edu/x/2024/assets/sanders.jpg">
+  <meta property="og:title" content="Plurality - CS50x 2024">
+
+  <link href="https://cs50.harvard.edu/x/2024/favicon.ico?1710445028" rel="icon">
+  <script src="../(template)/webfont.js"></script>
+  <link href="../(template)/page.css" rel="stylesheet">
+  <link rel="stylesheet" href="../(template)/css" media="all">
+  <script src="../(template)/jekyll-theme-cs50.js"></script>
+
+  <title>Plurality - CS50x 2024</title>
+
+</head>
+
+<body class="">
+
+  <div class="container-fluid">
+
+    <div class="row">
+
+      <main class="col-lg" style="margin-bottom: 400px; margin-top: 0px;">
+
+        <a data-id="" id="scrabble" style="top: 0px;"></a>
+        <h1><a data-id="" href="https://cs50.harvard.edu/x/2024/psets/2/scrabble/#scrabble">Scrabble</a></h1>
+
+        <p class="w-100"><img src="./Scrabble - CS50x 2024_files/scrabble.png" alt="Scrabble Board"></p>
+
+        <a data-id="" id="problem-to-solve" style="top: 0px;"></a>
+        <h2><a data-id="" href="https://cs50.harvard.edu/x/2024/psets/2/scrabble/#problem-to-solve">Problem to Solve</a>
+        </h2>
+
+        <p>In the game of <a href="https://scrabble.hasbro.com/en-us/rules">Scrabble</a>, players create words to score
+          points, and the number of points is the sum of the point values of each letter in the word.</p>
+
+        <div class="bootstrap-table bootstrap5">
+          <div class="fixed-table-toolbar"></div>
+
+          <div class="fixed-table-container" style="padding-bottom: 0px;">
+            <div class="fixed-table-header" style="display: none;">
+              <table></table>
+            </div>
+            <div class="fixed-table-body">
+              <div class="fixed-table-loading table table-bordered table-striped" style="top: 50px;">
+              </div>
+              <table class="table table-bordered table-striped">
+                <thead>
+                  <tr>
+                    <th data-field="0">
+                      <div class="th-inner ">
+                        <div style="text-align: left">A</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="1">
+                      <div class="th-inner ">
+                        <div style="text-align: left">B</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="2">
+                      <div class="th-inner ">
+                        <div style="text-align: left">C</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="3">
+                      <div class="th-inner ">
+                        <div style="text-align: left">D</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="4">
+                      <div class="th-inner ">
+                        <div style="text-align: left">E</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="5">
+                      <div class="th-inner ">
+                        <div style="text-align: left">F</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="6">
+                      <div class="th-inner ">
+                        <div style="text-align: left">G</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="7">
+                      <div class="th-inner ">
+                        <div style="text-align: left">H</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="8">
+                      <div class="th-inner ">
+                        <div style="text-align: left">I</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="9">
+                      <div class="th-inner ">
+                        <div style="text-align: left">J</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="10">
+                      <div class="th-inner ">
+                        <div style="text-align: left">K</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="11">
+                      <div class="th-inner ">
+                        <div style="text-align: left">L</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="12">
+                      <div class="th-inner ">
+                        <div style="text-align: left">M</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="13">
+                      <div class="th-inner ">
+                        <div style="text-align: left">N</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="14">
+                      <div class="th-inner ">
+                        <div style="text-align: left">O</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="15">
+                      <div class="th-inner ">
+                        <div style="text-align: left">P</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="16">
+                      <div class="th-inner ">
+                        <div style="text-align: left">Q</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="17">
+                      <div class="th-inner ">
+                        <div style="text-align: left">R</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="18">
+                      <div class="th-inner ">
+                        <div style="text-align: left">S</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="19">
+                      <div class="th-inner ">
+                        <div style="text-align: left">T</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="20">
+                      <div class="th-inner ">
+                        <div style="text-align: left">U</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="21">
+                      <div class="th-inner ">
+                        <div style="text-align: left">V</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="22">
+                      <div class="th-inner ">
+                        <div style="text-align: left">W</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="23">
+                      <div class="th-inner ">
+                        <div style="text-align: left">X</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="24">
+                      <div class="th-inner ">
+                        <div style="text-align: left">Y</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                    <th data-field="25">
+                      <div class="th-inner ">
+                        <div style="text-align: left">Z</div>
+                      </div>
+                      <div class="fht-cell"></div>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr data-index="0">
+                    <td>1</td>
+                    <td>3</td>
+                    <td>3</td>
+                    <td>2</td>
+                    <td>1</td>
+                    <td>4</td>
+                    <td>2</td>
+                    <td>4</td>
+                    <td>1</td>
+                    <td>8</td>
+                    <td>5</td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>3</td>
+                    <td>10</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>1</td>
+                    <td>4</td>
+                    <td>4</td>
+                    <td>8</td>
+                    <td>4</td>
+                    <td>10</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="fixed-table-footer"></div>
+          </div>
+          <div class="fixed-table-pagination" style="display: none;"></div>
+        </div>
+        <br>
+        <div class="clearfix"></div>
+
+        <p>For example, if we wanted to score the word “CODE”, we would note that the ‘C’ is worth 3 points, the ‘O’ is
+          worth 1 point, the ‘D’ is worth 2 points, and the ‘E’ is worth 1 point. Summing these, we get that “CODE” is
+          worth 7 points.</p>
+
+        <p>In a file called <code class="language-plaintext highlighter-rouge">scrabble.c</code> in a folder called
+          <code class="language-plaintext highlighter-rouge">scrabble</code>, implement a program in C that determines
+          the winner of a short Scrabble-like game. Your program should prompt for input twice: once for “Player 1” to
+          input their word and once for “Player 2” to input their word. Then, depending on which player scores the most
+          points, your program should either print “Player 1 wins!”, “Player 2 wins!”, or “Tie!” (in the event the two
+          players score equal points).
+        </p>
+
+      </main>
+
+    </div>
+
+  </div>
+
+</body>
+
+</html>

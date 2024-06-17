@@ -1,0 +1,51 @@
+./documents/certifications/Alibaba Cloud Certified Developer.pdf
+./documents/certifications/Introduction to Data Analytics.pdf
+./documents/certifications/Google Data Analytics 1.pdf
+./documents/certifications/Microsoft Azure Data Fundamentals.pdf
+./documents/certifications/IBM_Data Analysis with Python.pdf
+./documents/projects/idx_partners/choropleth.html
+./documents/projects/idx_partners/finalproject.html
+./documents/projects/quantium/quantium_task3.pdf
+./documents/projects/quantium/quantium_task2.html
+./documents/projects/quantium/quantium_task1.html
+./documents/projects/cs50x/pset/Plurality/Plurality - CS50x 2024.html
+./documents/projects/cs50x/pset/Mario/Mario - CS50x 2024.html
+./documents/projects/cs50x/pset/Mario/Mario - CS50x 2024_files/pyramid.png
+./documents/projects/cs50x/pset/Scrabble/Scrabble - CS50x 2024_files/scrabble.png
+./documents/projects/cs50x/pset/Scrabble/Scrabble - CS50x 2024.html
+./documents/projects/cs50x/pset/(template)/jekyll-theme-cs50.js
+./documents/projects/cs50x/pset/(template)/page.css
+./documents/projects/cs50x/pset/(template)/webfont.js
+./documents/projects/cs50x/pset/Hello, It’s Me/Hello, It’s Me - CS50x 2024.html
+./documents/projects/cs50x/pset/Readability/Readability - CS50x 2024.html
+./documents/projects/cs50x/pset/Readability/Readability - CS50x 2024_files/charlottes_web.jpg
+./documents/projects/cs50x/pset/Inheritance/Inheritance - CS50x 2024.html
+./documents/projects/cs50x/pset/Recover/Recover - CS50x 2024_files/recovered_image.png
+./documents/projects/cs50x/pset/Recover/Recover - CS50x 2024.html
+./documents/projects/cs50x/pset/Cash/Cash - CS50x 2024_files/coins.jpg
+./documents/projects/cs50x/pset/Cash/Cash - CS50x 2024.html
+./documents/projects/cs50x/pset/Speller/Speller - CS50x 2024.html
+./documents/projects/cs50x/pset/Runoff/Runoff - CS50x 2024.html
+./documents/projects/cs50x/pset/Runoff/Runoff - CS50x 2024_files/ranked_ballot_1.png
+./documents/projects/cs50x/pset/Runoff/Runoff - CS50x 2024_files/ranked_ballot_3.png
+./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/bitmap.png
+./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/grid.png
+./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/red_smile.png
+./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/sobel.png
+./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/yard-edges.bmp
+./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024.html
+./documents/projects/cs50x/pset/Sort/Sort - CS50x 2024.html
+./documents/projects/cs50x/pset/Caesar/Caesar - CS50x 2024.html
+./documents/projects/cs50x/pset/Caesar/Caesar - CS50x 2024_files/cipher.jpg
+./documents/projects/cs50x/pset/Volume/Volume - CS50x 2024_files/wav_file.png
+./documents/projects/cs50x/pset/Volume/Volume - CS50x 2024.html
+./documents/publications/Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional.pdf
+./documents/publications/Komunikasi Kepemimpinan.pdf
+./documents/publications/Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali).pdf
+./documents/publications/PENGARUH PENGGUNAAN SOSIAL MEDIA INSTAGRAM TERHADAP PERILAKU REMAJA.pdf
+./documents/publications/Sistem Nilai Tukar Mengambang (Studi Kasus Krisis Finansial Asia).pdf
+./documents/publications/Revolution in Military Affairs - Kebangkitan dan Revolusi China dalam Militer dan Ekonomi yang mengancam Amerika Serikat.pdf
+./documents/publications/Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara.pdf
+./documents/publications/Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi.pdf
+./documents/publications/Upaya Indonesia dalam Meningkatkan Strategi Keamanan Siber melalui Kerjasama Indonesia-Inggris.pdf
+./documents/resume.pdf
