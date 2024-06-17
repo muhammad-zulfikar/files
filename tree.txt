@@ -1,29 +1,29 @@
-./Documents/Projects/Dicoding: Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar (1).ipynb
-./Documents/Projects/Quantium: Data Analytics/Task 1 - Data Preparation and Customer Analysis (2).ipynb
-./Documents/Projects/Quantium: Data Analytics/Task 3 - Analytics and Commercial Application (3).pdf
-./Documents/Projects/Quantium: Data Analytics/Task 2 - Experimentation and Uplift Testing (2).ipynb
-./Documents/Projects/ASEAN DSE: ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
-./Documents/Certifications/Google Data Analytics 1.pdf
-./Documents/Certifications/Dicoding: Python.pdf
-./Documents/Certifications/Google Data Analytics 2.pdf
-./Documents/Certifications/IBM: Data Analysis with Python.pdf
-./Documents/Certifications/ASEAN Data Science Explorer: SAP Cloud Analytics and SAP Build Apps.pdf
-./Documents/Certifications/Microsoft Azure Data Fundamentals.pdf
-./Documents/Certifications/Alibaba Cloud Certified Developer.jpg
-./Documents/Certifications/Dicoding: Data Visualization.pdf
-./Documents/Certifications/United Nations Sustainable Development Cooperative Framework.pdf
-./Documents/Certifications/RevoU: Introduction to Data Analytics.pdf
-./Documents/Certifications/Dicoding: Machine Learning.pdf
-./Documents/Certifications/Quantium: Data Analytics.pdf
-./Documents/Certifications/CS50x (A4).pdf
-./Documents/resume.pdf
-./Documents/Publications/Pengaruh Kebijakan Ekspor Nikel Indonesia Terhadap Gugatan Uni Eropa di WTO dan Implikasinya Terhadap Perdagangan Internasional.pdf.pdf
-./Documents/Publications/Sistem Nilai Tukar Mengambang (Studi Kasus Krisis Finansial Asia).pdf
-./Documents/Publications/Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi.pdf
-./Documents/Publications/PENGARUH PENGGUNAAN SOSIAL MEDIA INSTAGRAM TERHADAP PERILAKU REMAJA.pdf
-./Documents/Publications/Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali).pdf
-./Documents/Publications/Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional.pdf
-./Documents/Publications/Upaya Indonesia dalam Meningkatkan Strategi Keamanan Siber melalui Kerjasama Indonesia-Inggris.pdf
-./Documents/Publications/Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara.pdf
-./Documents/Publications/Meninjau Kembali Komitmen Indonesia dalam Paris Agreement 2015 Era Jokowi (Energi Baru Terbarukan) .pdf
-./Documents/Publications/Komunikasi Kepemimpinan.pdf
+./documents/projects/ASEAN DSE - ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
+./documents/projects/Quantium - Data Analytics/Task 1 - Data Preparation and Customer Analysis.ipynb
+./documents/projects/Quantium - Data Analytics/Task 3 - Analytics and Commercial Application.pdf
+./documents/projects/Quantium - Data Analytics/Task 2 - Experimentation and Uplift Testing.ipynb
+./documents/projects/Dicoding - Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar.ipynb
+./documents/publications/Pengaruh Kebijakan Ekspor Nikel Indonesia Terhadap Gugatan Uni Eropa di WTO dan Implikasinya Terhadap Perdagangan Internasional.pdf.pdf
+./documents/publications/Sistem Nilai Tukar Mengambang (Studi Kasus Krisis Finansial Asia).pdf
+./documents/publications/Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi.pdf
+./documents/publications/PENGARUH PENGGUNAAN SOSIAL MEDIA INSTAGRAM TERHADAP PERILAKU REMAJA.pdf
+./documents/publications/Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali).pdf
+./documents/publications/Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional.pdf
+./documents/publications/Upaya Indonesia dalam Meningkatkan Strategi Keamanan Siber melalui Kerjasama Indonesia-Inggris.pdf
+./documents/publications/Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara.pdf
+./documents/publications/Meninjau Kembali Komitmen Indonesia dalam Paris Agreement 2015 Era Jokowi (Energi Baru Terbarukan) .pdf
+./documents/publications/Komunikasi Kepemimpinan.pdf
+./documents/resume.pdf
+./documents/certifications/Google Data Analytics 1.pdf
+./documents/certifications/Dicoding: Python.pdf
+./documents/certifications/Google Data Analytics 2.pdf
+./documents/certifications/IBM: Data Analysis with Python.pdf
+./documents/certifications/ASEAN Data Science Explorer: SAP Cloud Analytics and SAP Build Apps.pdf
+./documents/certifications/Microsoft Azure Data Fundamentals.pdf
+./documents/certifications/Alibaba Cloud Certified Developer.jpg
+./documents/certifications/Dicoding: Data Visualization.pdf
+./documents/certifications/United Nations Sustainable Development Cooperative Framework.pdf
+./documents/certifications/RevoU: Introduction to Data Analytics.pdf
+./documents/certifications/Dicoding: Machine Learning.pdf
+./documents/certifications/Quantium: Data Analytics.pdf
+./documents/certifications/CS50x (A4).pdf
