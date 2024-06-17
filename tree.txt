@@ -1,8 +1,8 @@
-./documents/projects/ASEAN DSE - ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
-./documents/projects/Quantium - Data Analytics/Task 1 - Data Preparation and Customer Analysis.ipynb
-./documents/projects/Quantium - Data Analytics/Task 3 - Analytics and Commercial Application.pdf
-./documents/projects/Quantium - Data Analytics/Task 2 - Experimentation and Uplift Testing.ipynb
-./documents/projects/Dicoding - Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar.ipynb
+./documents/projects/quantiumDataAnalytics/Task 1 - Data Preparation and Customer Analysis.ipynb
+./documents/projects/quantiumDataAnalytics/Task 3 - Analytics and Commercial Application.pdf
+./documents/projects/quantiumDataAnalytics/Task 2 - Experimentation and Uplift Testing.ipynb
+./documents/projects/dicodingImageClassifier/dicodingMachineLearningFinalProject_muhammadZulfikar.ipynb
+./documents/projects/aseanDseAseanCovidStatistics/ASEAN COVID-19 Statistics.pdf
 ./documents/publications/Pengaruh Kebijakan Ekspor Nikel Indonesia Terhadap Gugatan Uni Eropa di WTO dan Implikasinya Terhadap Perdagangan Internasional.pdf.pdf
 ./documents/publications/Sistem Nilai Tukar Mengambang (Studi Kasus Krisis Finansial Asia).pdf
 ./documents/publications/Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi.pdf
