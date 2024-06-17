@@ -1,51 +1,29 @@
-./documents/certifications/Alibaba Cloud Certified Developer.pdf
-./documents/certifications/Introduction to Data Analytics.pdf
-./documents/certifications/Google Data Analytics 1.pdf
-./documents/certifications/Microsoft Azure Data Fundamentals.pdf
-./documents/certifications/IBM_Data Analysis with Python.pdf
-./documents/projects/idx_partners/choropleth.html
-./documents/projects/idx_partners/finalproject.html
-./documents/projects/quantium/quantium_task3.pdf
-./documents/projects/quantium/quantium_task2.html
-./documents/projects/quantium/quantium_task1.html
-./documents/projects/cs50x/pset/Plurality/Plurality - CS50x 2024.html
-./documents/projects/cs50x/pset/Mario/Mario - CS50x 2024.html
-./documents/projects/cs50x/pset/Mario/Mario - CS50x 2024_files/pyramid.png
-./documents/projects/cs50x/pset/Scrabble/Scrabble - CS50x 2024_files/scrabble.png
-./documents/projects/cs50x/pset/Scrabble/Scrabble - CS50x 2024.html
-./documents/projects/cs50x/pset/(template)/jekyll-theme-cs50.js
-./documents/projects/cs50x/pset/(template)/page.css
-./documents/projects/cs50x/pset/(template)/webfont.js
-./documents/projects/cs50x/pset/Hello, It’s Me/Hello, It’s Me - CS50x 2024.html
-./documents/projects/cs50x/pset/Readability/Readability - CS50x 2024.html
-./documents/projects/cs50x/pset/Readability/Readability - CS50x 2024_files/charlottes_web.jpg
-./documents/projects/cs50x/pset/Inheritance/Inheritance - CS50x 2024.html
-./documents/projects/cs50x/pset/Recover/Recover - CS50x 2024_files/recovered_image.png
-./documents/projects/cs50x/pset/Recover/Recover - CS50x 2024.html
-./documents/projects/cs50x/pset/Cash/Cash - CS50x 2024_files/coins.jpg
-./documents/projects/cs50x/pset/Cash/Cash - CS50x 2024.html
-./documents/projects/cs50x/pset/Speller/Speller - CS50x 2024.html
-./documents/projects/cs50x/pset/Runoff/Runoff - CS50x 2024.html
-./documents/projects/cs50x/pset/Runoff/Runoff - CS50x 2024_files/ranked_ballot_1.png
-./documents/projects/cs50x/pset/Runoff/Runoff - CS50x 2024_files/ranked_ballot_3.png
-./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/bitmap.png
-./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/grid.png
-./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/red_smile.png
-./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/sobel.png
-./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024_files/yard-edges.bmp
-./documents/projects/cs50x/pset/Filter/Filter - CS50x 2024.html
-./documents/projects/cs50x/pset/Sort/Sort - CS50x 2024.html
-./documents/projects/cs50x/pset/Caesar/Caesar - CS50x 2024.html
-./documents/projects/cs50x/pset/Caesar/Caesar - CS50x 2024_files/cipher.jpg
-./documents/projects/cs50x/pset/Volume/Volume - CS50x 2024_files/wav_file.png
-./documents/projects/cs50x/pset/Volume/Volume - CS50x 2024.html
-./documents/publications/Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional.pdf
-./documents/publications/Komunikasi Kepemimpinan.pdf
-./documents/publications/Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali).pdf
-./documents/publications/PENGARUH PENGGUNAAN SOSIAL MEDIA INSTAGRAM TERHADAP PERILAKU REMAJA.pdf
-./documents/publications/Sistem Nilai Tukar Mengambang (Studi Kasus Krisis Finansial Asia).pdf
-./documents/publications/Revolution in Military Affairs - Kebangkitan dan Revolusi China dalam Militer dan Ekonomi yang mengancam Amerika Serikat.pdf
-./documents/publications/Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara.pdf
-./documents/publications/Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi.pdf
-./documents/publications/Upaya Indonesia dalam Meningkatkan Strategi Keamanan Siber melalui Kerjasama Indonesia-Inggris.pdf
-./documents/resume.pdf
+./Documents/Projects/Data & ML/Dicoding: Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar (1).ipynb
+./Documents/Projects/Data & ML/Quantium: Data Analytics/Task 1 - Data Preparation and Customer Analysis (2).ipynb
+./Documents/Projects/Data & ML/Quantium: Data Analytics/Task 3 - Analytics and Commercial Application (3).pdf
+./Documents/Projects/Data & ML/Quantium: Data Analytics/Task 2 - Experimentation and Uplift Testing (2).ipynb
+./Documents/Projects/Data & ML/ASEAN DSE: ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
+./Documents/Certifications/ASEAN Data Science Explorer_ SAP Cloud Analytics and SAP Build Apps.pdf
+./Documents/Certifications/Google Data Analytics Professional Certificate/Google Data Analytics 1.pdf
+./Documents/Certifications/Google Data Analytics Professional Certificate/Google Data Analytics 2.pdf
+./Documents/Certifications/IBM: Data Analysis with Python.pdf
+./Documents/Certifications/Microsoft Azure Data Fundamentals.pdf
+./Documents/Certifications/Alibaba Cloud Certified Developer.jpg
+./Documents/Certifications/Dicoding Machine Learning Path/Dicoding: Python.pdf
+./Documents/Certifications/Dicoding Machine Learning Path/Dicoding: Data Visualization.pdf
+./Documents/Certifications/Dicoding Machine Learning Path/Dicoding: Machine Learning.pdf
+./Documents/Certifications/United Nations Sustainable Development Cooperative Framework.pdf
+./Documents/Certifications/RevoU: Introduction to Data Analytics.pdf
+./Documents/Certifications/Quantium: Data Analytics.pdf
+./Documents/Certifications/CS50x (A4).pdf
+./Documents/resume.pdf
+./Documents/Publications/Pengaruh Kebijakan Ekspor Nikel Indonesia Terhadap Gugatan Uni Eropa di WTO dan Implikasinya Terhadap Perdagangan Internasional.pdf.pdf
+./Documents/Publications/Sistem Nilai Tukar Mengambang (Studi Kasus Krisis Finansial Asia).pdf
+./Documents/Publications/Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi.pdf
+./Documents/Publications/PENGARUH PENGGUNAAN SOSIAL MEDIA INSTAGRAM TERHADAP PERILAKU REMAJA.pdf
+./Documents/Publications/Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali).pdf
+./Documents/Publications/Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional.pdf
+./Documents/Publications/Upaya Indonesia dalam Meningkatkan Strategi Keamanan Siber melalui Kerjasama Indonesia-Inggris.pdf
+./Documents/Publications/Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara.pdf
+./Documents/Publications/Meninjau Kembali Komitmen Indonesia dalam Paris Agreement 2015 Era Jokowi (Energi Baru Terbarukan) .pdf
+./Documents/Publications/Komunikasi Kepemimpinan.pdf

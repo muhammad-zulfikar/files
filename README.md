@@ -1,26 +1,3 @@
-# private-repo-file-explorer
-
-> Share a private repo as if it were a public repo.
-
-<table>
-    <thead>
-        <tr>
-            <th align="center"><strong>Contents</strong></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <ol>
-                    <li><a href="#try-it">Try it!</a></li>
-                    <li><a href="#how-can-i-add-it-to-my-repo">How can I add it to my repo?</a></li>
-                    <li><a href="#license">License</a></li>
-                </ol>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 ### How can I add it to my repo?
 
 1.  Copy [index.html](https://github.com/brianjenkins94/private-repo-file-explorer/blob/main/index.html) to your [GitHub Pages source folder](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
