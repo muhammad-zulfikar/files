@@ -1,19 +1,19 @@
-./Documents/Projects/Data and ML/Dicoding: Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar (1).ipynb
-./Documents/Projects/Data and ML/Quantium: Data Analytics/Task 1 - Data Preparation and Customer Analysis (2).ipynb
-./Documents/Projects/Data and ML/Quantium: Data Analytics/Task 3 - Analytics and Commercial Application (3).pdf
-./Documents/Projects/Data and ML/Quantium: Data Analytics/Task 2 - Experimentation and Uplift Testing (2).ipynb
-./Documents/Projects/Data and ML/ASEAN DSE: ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
-./Documents/Certifications/Google Data Analytics Professional Certificate/Google Data Analytics 1.pdf
-./Documents/Certifications/Google Data Analytics Professional Certificate/Google Data Analytics 2.pdf
+./Documents/Projects/Dicoding: Image Classifier/dicodingMachineLearningFinalProject_muhammadZulfikar (1).ipynb
+./Documents/Projects/Quantium: Data Analytics/Task 1 - Data Preparation and Customer Analysis (2).ipynb
+./Documents/Projects/Quantium: Data Analytics/Task 3 - Analytics and Commercial Application (3).pdf
+./Documents/Projects/Quantium: Data Analytics/Task 2 - Experimentation and Uplift Testing (2).ipynb
+./Documents/Projects/ASEAN DSE: ASEAN COVID-19 Statistics/ASEAN COVID-19 Statistics.pdf
+./Documents/Certifications/Google Data Analytics 1.pdf
+./Documents/Certifications/Dicoding: Python.pdf
+./Documents/Certifications/Google Data Analytics 2.pdf
 ./Documents/Certifications/IBM: Data Analysis with Python.pdf
 ./Documents/Certifications/ASEAN Data Science Explorer: SAP Cloud Analytics and SAP Build Apps.pdf
 ./Documents/Certifications/Microsoft Azure Data Fundamentals.pdf
 ./Documents/Certifications/Alibaba Cloud Certified Developer.jpg
-./Documents/Certifications/Dicoding Machine Learning Path/Dicoding: Python.pdf
-./Documents/Certifications/Dicoding Machine Learning Path/Dicoding: Data Visualization.pdf
-./Documents/Certifications/Dicoding Machine Learning Path/Dicoding: Machine Learning.pdf
+./Documents/Certifications/Dicoding: Data Visualization.pdf
 ./Documents/Certifications/United Nations Sustainable Development Cooperative Framework.pdf
 ./Documents/Certifications/RevoU: Introduction to Data Analytics.pdf
+./Documents/Certifications/Dicoding: Machine Learning.pdf
 ./Documents/Certifications/Quantium: Data Analytics.pdf
 ./Documents/Certifications/CS50x (A4).pdf
 ./Documents/resume.pdf
